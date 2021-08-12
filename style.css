@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 500px;
+    
+}
+img{
+    width: 175px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+
+}
+#wel{
+    position: absolute;
+    height: 100%;
+    color: rgb(255, 0, 0);
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    background: linear-gradient(black 0%,blue 100%);
+}
+h1{
+    font-size: 40px;
+
+}
+h2{
+    font-size: 30px;
+}
+#bio{
+    text-align: center;
+    font-size: 40px;
+    padding: 50px;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: yellowgreen;
+    margin: 8px auto;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+}
+.pro{
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    display: table-cell;
+}
